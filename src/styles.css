@@ -69,3 +69,8 @@ h5 {
   padding: auto;
   text-align: center;
 }
+
+.name {
+  display: block;
+  text-align: center;
+}
