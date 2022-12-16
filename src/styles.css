@@ -62,7 +62,10 @@ h5 {
   margin-top: 5px;
 }
 
-.gitHub-link {
+.gitHub-link,
+.creator {
   display: block;
+  margin: auto;
+  padding: auto;
   text-align: center;
 }
