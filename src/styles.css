@@ -61,3 +61,8 @@ h5 {
   margin-bottom: 5px;
   margin-top: 5px;
 }
+
+.gitHub-link {
+  display: block;
+  text-align: center;
+}
